@@ -60,6 +60,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## AI Coding
 *AI IDEs and AI Assistants.*
 * [Aider](https://aider.chat/) - Open-source terminal AI assistant. [![aider](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/Aider-AI/aider)
+* [Awesome AI Coding Tools](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) - Curated directory and 3-tier taxonomy of coding agents, Model Context Protocol (MCP) integrations, local GPU VRAM calculators, and benchmarks. [![Awesome AI Coding Tools](https://img.shields.io/github/stars/mahmoudsajjadi/awesome-ai-coding-tools?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools)
 * [Amazon Q](https://aws.amazon.com/q/developer/) - Amazon’s AI assistant.
 * [Cline](https://cline.bot/) - Open-source VS Code plugin for Claude as a coding assistant. [![cline](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/cline/cline)
 * [CodeParrot](https://codeparrot.ai/) - Frontend component AI assistant for VS Code.
